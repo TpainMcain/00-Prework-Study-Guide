@@ -1,21 +1,13 @@
-# <Coding Bootcamp Prework Study Guide>
+# 00-Prework Study Guide
 
 ## Description
+Prework study guide for bootcamp.
 
-This project is intended to serve as a study guide for UT Austin Coding Bootcamp.
-
-## Installation
-
-N/A
+## Getting Started
+Open index.html with default browser
 
 ## Usage
-
 Each section contains useful links to helpful docs and tutorials. Included JavaScript allows users to open DevTools console (right-click->Inspect->Console) to view covered topics, and randomly assign one topic to study. 
 
-## Credits
-
-N/A
-
 ## License
-
 MIT license
