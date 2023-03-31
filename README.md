@@ -1,7 +1,7 @@
 # 00-Prework Study Guide
 
 ## Description
-Prework study guide for bootcamp.
+Prework study guide for coding bootcamp.
 
 ## Getting Started
 Open index.html with default browser
